@@ -15,15 +15,15 @@ Lately, I've been **exploring and experimenting with AI/LLMs**, diving deep into
 ## 🛠️ Tech Stack & Skills
 ### Full-Stack Development
 - **Backend:** Python/Django, PHP/Laravel, Ruby on Rails
-- **Frontend:** React.js, Next.js
+- **Frontend:** React.js, Next.js, Typescript
 - **Mobile:** Flutter, Swift, Unity
 - **Cloud & DevOps:** AWS, Docker, CI/CD
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 
 ### Blockchain & Web3
-- **Smart Contracts:** Solidity, Hardhat, Oracles
-- **Protocols:** EVM ecosysten (Mainnet and all layer 2s)
-- **Development Tools:** Ethers.js, Web3.js, The Graph
+- EVM ecosystem
+- **Smart Contracts:** Solidity, Hardhat, OpenZeppelin, Oracles
+- **Development Tools:** wagmi, ethers.js, RainbowKit, OnchainKit, IPFS, Scaffold-ETH, Remix
 
 ### Other Technical Skills
 - AI & Machine Learning (ML APIs, data pipelines)
