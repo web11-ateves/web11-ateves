@@ -39,11 +39,28 @@ A MetaMask snaps & Chrome Extension that empowers users with **full control over
 
 ### Other projects:
 - **[Onchain Angels](https://ethglobal.com/showcase/onchain-angels-qi0cn) (ETHGlobal, Agentic ETH, 2025)** – An AI-powered financial coach that helps traders make better decisions by analyzing on-chain actions and providing behavioral insights. 🏆 **2 prizes, $3k**  
-- **[RainSurance](https://devpost.com/software/rainsurance) (Chainlink Spring Hackathon, 2023)** – A blockchain-based parametric insurance for weather risk mitigation, offering automated payouts based on real-time data. 🏆 **1 prize, $600**  
+- **[Rainsurance](https://devpost.com/software/rainsurance) (Chainlink Spring Hackathon, 2023)** – A blockchain-based parametric insurance for weather risk mitigation, offering automated payouts based on real-time data. 🏆 **1 prize, $600**  
 - **[Liquidity Wars](https://devpost.com/software/liquidity-wars) (Chainlink Fall Hackathon, 2022)** – A white-label platform for gamifying DEX liquidity mining, leveraging Chainlink automation and data feeds. 🏆 **1 prize, $800**  
 - **[CoverFi](https://ethglobal.com/showcase/coverfi-ocn0q) (ETHGlobal, San Francisco, 2022)** – A decentralized, zero-cost insurance solution for DeFi hacks, protecting crypto users from smart contract exploits. 🏆 **4 prizes, $5k**  
 - **[Roll NFT](https://ethglobal.com/showcase/roll-nft-duj70) (ETHGlobal, ETHOnline, 2022)** – A NFT raffle application that expands trade options, adds game mechanics to NFT exchanges, and boosts market liquidity. 🏆 **3 prizes, $1.5k**  
 
+## 🎓 Education  
+
+- **MBA in Investments and Private Banking** – IBMEC/São Paulo (Aug/2018 – Dec/2020)  
+  Developed an intermediate-level expertise in financial markets, covering stock market analysis (technical & fundamental), derivatives, macroeconomics, fixed income securities, international investments, cryptocurrencies, wealth management, and real estate markets.  
+
+- **M.Sc. in Mechanical Engineering** – Escola Politécnica, Universidade de São Paulo (Feb/2010 – Feb/2013)  
+  Research on **high-performance capacitive MEMS accelerometers**, applying **topology optimization methods** for systematic microsensor design. The work was part of the AcelerAD project, aiming to develop **MEMS accelerometers for aerospace applications** (aircraft, missiles, satellites).  
+
+- **B.Sc. in Mechatronics Engineering** – Escola Politécnica, Universidade de São Paulo (Jan/2004 – Dec/2009)  
+  - 🏆 **CREA-SP Distinguished Undergraduate Student Award** – Ranked **1st** in the Mechatronics Engineering Class of 2009.  
+  - **Extracurriculars:**  
+    - Undergraduate research in **AI** under Prof. Dr. Fabio Gagliardi Cozman (2006–2007).
+    - **CFO of EPUSP Junior Enterprise** (2007). 
+
+- **Exchange Program** – University of Illinois at Urbana-Champaign, USA (Jan–Dec/2008)  
+  - 1-year exchange focused on **microfabrication (MEMS), industrial engineering, and biomedical imaging**.
+  - **GPA**: 3.7/4.0.  
 
 ## 📬 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/andre-teves-5a84688/)
