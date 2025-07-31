@@ -7,7 +7,6 @@ Lately, I've been **exploring and experimenting with AI/LLMs**, diving deep into
 
 ## 🚀 About Me
 - **Partner & Tech Lead** at [WebEleven](https://www.webeleven.com.br/) – Building web and mobile apps, as well as AR & VR solutions for startups and enterprises in Brazil and abroad since 2014.  
-- **Co-Founder & CTO** at [Mat-Nova](https://mat-nova.com) – The first on-demand materials analysis platform, designed to make lab testing as easy as booking a ride.  
 - **Co-Founder & CTO** at [ABA Central](https://aba-central.com/) – Innovating education for children with autism through personalized digital learning solutions.  
 - **Previously Co-Founder & CTO** at Retroca (now [Enjoei](https://www.enjoei.com.br/)) – A Brazilian end-to-end marketplace for buying and selling pre-owned children's clothing.
 - **Passionate about Web3 & Blockchain** – Active in hackathons and open-source projects, exploring decentralized tech and smart contract applications.  
