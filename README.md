@@ -1,9 +1,7 @@
 # 👋 Hi, I'm André Teves  
 
 I'm a **Software Engineer & Tech Entrepreneur** passionate about building innovative, scalable digital products and experiences.  
-With over 10 years of experience in **full-stack web and mobile development**, I've worked across industries like **healthtech, consumer tech, e-commerce, insurance, fintech, and blockchain/Web3**, leading teams and delivering high-quality software solutions.  
-
-Lately, I've been **exploring and experimenting with AI/LLMs**, diving deep into their potential and real-world applications.  
+With over 10 years of experience in **full-stack web and mobile development**, I've worked across industries like **healthtech, consumer tech, e-commerce, insurance, fintech, and blockchain/Web3**, leading teams and delivering high-quality software solutions. Lately, I've been **exploring and experimenting with AI/LLMs**, diving deep into their potential and real-world applications.  
 
 ## 🚀 About Me
 - **Partner & Tech Lead** at [WebEleven](https://www.webeleven.com.br/) – Building web and mobile apps, as well as AR & VR solutions for startups and enterprises in Brazil and abroad since 2014.  
